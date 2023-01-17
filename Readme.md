@@ -1,3 +1,5 @@
+### Example for SEIR model and MCMC estimatimg
+
 ## Modelling transmission dynamics of COVID-19
 
 This repository includes data and codes for reproducing the results in the manuscript:
